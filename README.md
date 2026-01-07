@@ -112,7 +112,7 @@ This script implements the core contribution of the paper:
 
 ---
 
-## 📊 Relation to Experimental Results in the Paper
+## Relation to Experimental Results in the Paper
 
 The scripts reproduce the experiments reported in the manuscript, including:
 
@@ -128,7 +128,7 @@ The resulting RMSE statistics correspond to those reported in:
 
 ---
 
-## 📂 Expected Folder Structure
+## Expected Folder Structure
 
 The repository is expected to follow the structure below:
 
